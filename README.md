@@ -2,7 +2,7 @@
 tutorial to python
 
 
-_/pk/_ 패키지<br>
+_pk_ 패키지<br>
 _md_ 모듈<br>
 _cl_ 클래스<br>
 _?f_ 함수, ?는 리턴값<br>
