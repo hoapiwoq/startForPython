@@ -1,0 +1,2 @@
+# startForPython
+tutorial to python
